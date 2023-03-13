@@ -35,7 +35,7 @@ Você vai preencher com as informações do projeto, então dar o nome do reposi
 
 Logo depois vai aparecer essa página um pouco cinza e confusa e com vários comandos (pode até perceber que alguns deles já usamos), mas o que você tem que fazer é bem simples, apenas copie o link que aparecer para você
 
-Lembra do conceito de remote que foi explicado no vídeo da Rafaella Ballerini "Como usar Git e  GitHub 1/2"? Nós iremos utilizá-lo agora
+Lembra do conceito de remote que foi explicado no vídeo da Rafaella Ballerini? "Como usar Git e  GitHub 1/2"(link:https://youtu.be/DqTITcMq68k) Nós iremos utilizá-lo agora.
 
 Para passar o commit do meu repositório local (da minha máquina) para um repositório na plataforma do Github, usamos o git remote add origin <link do repositório>
 
@@ -135,5 +135,9 @@ Depois disso, basta esperar para que o dono da branch original aceite o seu pull
 
 Esse Tutorial foi insipirado no Tutorial da Rafaella Ballerini e o Projeto dela se encontra aqui:
 https://github.com/rafaballerini/GitTutorial.git
+
+
+Essa explicação ela explica em seu vídeo no Youtube:https://youtu.be/UBAX-13g8OM
+
 
 Espero que aprendam, parece ser difícil mas é bem tranquilo!
