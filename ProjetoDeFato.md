@@ -133,6 +133,11 @@ Você irá colocar um nome intuitivo, que demonstre a funcionalidade adicionada 
 
 Depois disso, basta esperar para que o dono da branch original aceite o seu pull request
 
+Para saber o que acontece com Git veja sua aba de versões documentadas
+https://git-scm.com/doc
+
+
+
 Esse Tutorial foi insipirado no Tutorial da Rafaella Ballerini e o Projeto dela se encontra aqui:
 https://github.com/rafaballerini/GitTutorial.git
 
